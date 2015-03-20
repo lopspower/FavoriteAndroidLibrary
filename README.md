@@ -10,6 +10,7 @@ Navigation
 * [`ArcMenu`](https://github.com/daCapricorn/ArcMenu) : Alternate radial menu (Like `Path` App)
 * [`SlidingUpPanel`](https://github.com/umano/AndroidSlidingUpPanel) : Sliding Up Panel (Like `Google Music` App)
 * [`DraggablePanel`](https://github.com/pedrovgs/DraggablePanel) : Panels that can be dragged (Like `YouTube` App)
+* [`WizardPager`](https://github.com/romannurik/Android-WizardPager) : Additional page type examples
 
 UI Components
 -----
@@ -23,6 +24,9 @@ UI Components
 * [`ImageSlider`](https://github.com/daimajia/AndroidImageSlider) : Animated image transitions
 * [`Forsquare-CollectionPicker`](https://github.com/anton46/Foursquare-CollectionPicker) : Item Picker which looks like Foursquare Tastes picker
 * [`Iconify`](https://github.com/JoanZapata/android-iconify) : Easily embed icons into your app
+* [`AppMsg`](https://github.com/johnkil/Android-AppMsg) : Implementation of in-layout notifications
+* [`GooglePlusLayout`](https://github.com/Nammari/GooglePlusLayout) : Custom layout that support playing animation on child view in the main Layout that appears on the main page (Like `Google +` App)
+* [`TimesSquare`](https://github.com/square/android-times-square) : Standalone Android widget for picking a single date from a calendar view
 
 ListView
 -----
@@ -33,6 +37,8 @@ ListView
 * [`StaggeredGrid`](https://github.com/etsy/AndroidStaggeredGrid) : Staggered GridView
 * [`Card Library`](https://github.com/gabrielemariotti/cardslib) : Card UI for Lists or Grids (Like `Google Now` App)
 * [`QuickReturn`](https://github.com/lawloretienne/QuickReturn) : Reveal or hide a header or footer as the list is scrolled in a direction (Like `Facebook`, `Twitter` or `Google +` App)
+* [`HorizontalVariableListView`](https://github.com/sephiroth74/HorizontalVariableListView) : Horizontal ListView
+* [`PullToRefresh-ListView`](https://github.com/erikwt/PullToRefresh-ListView) : Pull to Refresh Library
 
 Chart
 -----
@@ -47,13 +53,16 @@ More
 
 * [`ZXing`](https://github.com/zxing/zxing) : Barcode or QR scanner
 * [`WebServer`](https://github.com/lopspower/WebServer) : Android Web Server (with NanoHTTPD)
- 
+* [`Mupdf`](https://github.com/muennich/mupdf) : PDF Reader
+
+Android Tools
+-----
+
+* [`ActionBarStyleGenerator`](https://github.com/jgilfelt/android-actionbarstylegenerator) : Allows you to easily create a simple, attractive and seamless custom action bar style for your Android application
 
 
 ####References
 
 * [CodePath](http://codepath.com/)
 * [Vogella](http://www.vogella.com/tutorials/AndroidUsefulLibraries/article.html)
-
-
 
