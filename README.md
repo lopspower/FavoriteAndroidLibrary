@@ -1,5 +1,5 @@
 # Favorite Android Library
-Best Android Library open source on GitHub, enjoy !!
+Best Android Library open source on GitHub and others, enjoy !!
 
 Navigation
 -----
@@ -42,7 +42,8 @@ ListView
 * [`HorizontalVariableListView`](https://github.com/sephiroth74/HorizontalVariableListView) : Horizontal ListView
 * [`PullToRefresh-ListView`](https://github.com/erikwt/PullToRefresh-ListView) : Pull to Refresh Library
 * [`Universal-Image-Loader`](https://github.com/nostra13/Android-Universal-Image-Loader) : Flexible and highly customizable instrument for image loading, caching and displaying
-* [`QuickReturn`](https://github.com/LarsWerkman/QuickReturnListView) : implementation of the QuickReturn UI developed
+* [`QuickReturn`](https://github.com/LarsWerkman/QuickReturnListView) : Implementation of the QuickReturn UI developed
+* [`Picasso`](https://github.com/square/picasso) : A powerful image downloading and caching library
 
 Chart
 -----
@@ -62,6 +63,7 @@ Parsing
 
 * [`Gson`](https://code.google.com/p/google-gson/) : Gson is a Java library that can be used to convert Java Objects into their JSON representation
 * [`SimpleXML`](http://simple.sourceforge.net/download/stream/doc/examples/examples.php) : Simple is a high performance XML serialization and configuration framework for Java
+* [`Jsonschema2pojo`](http://www.jsonschema2pojo.org/) : Generate Plain Old Java Objects from JSON or JSON-Schema
 
 More
 -----
@@ -72,15 +74,24 @@ More
 * [`Cropper`](https://github.com/edmodo/cropper) : Image cropping tool
 * [`EventBus`](http://greenrobot.github.io/EventBus/) : Simplifies communication between different parts of your application
 * [`ActiveAndroid`](http://www.activeandroid.com/) : ActiveAndroid is an ORM for Android
+* [`ButterKnife`](https://github.com/JakeWharton/butterknife) : Field and method binding for Android views which uses annotation processing to generate boilerplate code for you
 
 Android Tools
 -----
 
 * [`ActionBarStyleGenerator`](https://github.com/jgilfelt/android-actionbarstylegenerator) : Allows you to easily create a simple, attractive and seamless custom action bar style for your Android application
+* [`AssetStudio`](http://romannurik.github.io/AndroidAssetStudio/) : Icon generators allow you to quickly and easily generate icons from existing source images, clipart, or text
+* [`TinyPNG`](https://tinypng.com/) : Advanced lossy compression for PNG images that preserves full alpha transparency
+* [`LayoutFinder`](https://www.buzzingandroid.com/tools/android-layout-finder/) : Layout Finder helps you create the code that ties your Android UI and Java code together
+* [`ButtonMaker`](http://angrytools.com/android/button/) : Online tool to generate buttons code for Android Apps
+* [`Gradle, Please`](http://gradleplease.appspot.com/) : It helps you to get exact maven artifact of the particular library
+* [`Postman`](http://www.getpostman.com/) : It comes handy when you would want to check your rest APIs
 
 
 ####References
 
 * [CodePath](http://codepath.com/)
 * [Vogella](http://www.vogella.com/tutorials/AndroidUsefulLibraries/article.html)
-
+* [Infinum](https://www.infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about)
+* [Quora](http://www.quora.com/What-are-the-best-open-source-libraries-available-for-Android)
+* [TechnoTalkative](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
