@@ -27,6 +27,8 @@ UI Components
 * [`AppMsg`](https://github.com/johnkil/Android-AppMsg) : Implementation of in-layout notifications
 * [`GooglePlusLayout`](https://github.com/Nammari/GooglePlusLayout) : Custom layout that support playing animation on child view in the main Layout that appears on the main page (Like `Google +` App)
 * [`TimesSquare`](https://github.com/square/android-times-square) : Standalone Android widget for picking a single date from a calendar view
+* [`CircularSeekBar`](https://github.com/RaghavSood/AndroidCircularSeekBar) : A circular seek bar for Android
+* [`DateTimePicker`](https://github.com/flavienlaurent/datetimepicker) : Contains a beautiful DatePicker and TimePicker (Like `Google Agenda` App)
 
 ListView
 -----
@@ -39,6 +41,7 @@ ListView
 * [`QuickReturn`](https://github.com/lawloretienne/QuickReturn) : Reveal or hide a header or footer as the list is scrolled in a direction (Like `Facebook`, `Twitter` or `Google +` App)
 * [`HorizontalVariableListView`](https://github.com/sephiroth74/HorizontalVariableListView) : Horizontal ListView
 * [`PullToRefresh-ListView`](https://github.com/erikwt/PullToRefresh-ListView) : Pull to Refresh Library
+* [`Universal-Image-Loader`](https://github.com/nostra13/Android-Universal-Image-Loader) : Flexible and highly customizable instrument for image loading, caching and displaying
 
 Chart
 -----
@@ -48,12 +51,18 @@ Chart
 * [`AndroidCharts`](https://github.com/HackPlan/AndroidCharts) : Easy to use charts
 * [`WilliamChart`](https://github.com/diogobernardino/WilliamChart) : Flexible charting library with useful motion capabilities
 
+Game
+-----
+
+* [`AndEngine`](https://github.com/nicolasgramlich/AndEngine) : AndEngine is a free Open Source 2D OpenGL Game Engine for the Android platform
+
 More
 -----
 
 * [`ZXing`](https://github.com/zxing/zxing) : Barcode or QR scanner
 * [`WebServer`](https://github.com/lopspower/WebServer) : Android Web Server (with NanoHTTPD)
 * [`Mupdf`](https://github.com/muennich/mupdf) : PDF Reader
+* [`Cropper`](https://github.com/edmodo/cropper) : Image cropping tool
 
 Android Tools
 -----
