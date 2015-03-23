@@ -57,6 +57,15 @@ Game
 -----
 
 * [`AndEngine`](https://github.com/nicolasgramlich/AndEngine) : AndEngine is a free Open Source 2D OpenGL Game Engine for the Android platform
+* [`Unity3D`](http://unity3d.com/) : Very good (available on Android, iOS, Web, Windows, OS X)
+* [`Ogre3D`](http://www.ogre3d.org/) : The best open source 3d engine but it is a large framework
+* [`Irrlicht`](http://irrlicht.sourceforge.net/) : Good performance, light framework [Game: Moblox]
+* [`Linderdaum Engine`](http://www.linderdaum.com/) : Open source for Windows and Android
+* [`Cocos2d-x`](http://cocos2d-x.org/) : Open source cross platform
+* [`Box2d`](http://box2d.org/) : Fast and easy
+* [`Jbox2d`](http://www.jbox2d.org/) : So slow on Java that I made a JNI wrapper with SWIG to use native box2d (AndEngine does the same)
+* [`Chipmunk`](http://code.google.com/p/chipmunk-physics/) : Fast but I prefer box2d
+* [`Bullet`](http://bulletphysics.org/) : Excellent 3D engine
 
 Parsing
 -----
