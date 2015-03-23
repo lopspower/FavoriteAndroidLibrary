@@ -57,6 +57,12 @@ Game
 
 * [`AndEngine`](https://github.com/nicolasgramlich/AndEngine) : AndEngine is a free Open Source 2D OpenGL Game Engine for the Android platform
 
+Parsing
+-----
+
+* [`Gson`](https://code.google.com/p/google-gson/) : Gson is a Java library that can be used to convert Java Objects into their JSON representation
+* [`SimpleXML`](http://simple.sourceforge.net/download/stream/doc/examples/examples.php) : Simple is a high performance XML serialization and configuration framework for Java
+
 More
 -----
 
@@ -64,6 +70,8 @@ More
 * [`WebServer`](https://github.com/lopspower/WebServer) : Android Web Server (with NanoHTTPD)
 * [`Mupdf`](https://github.com/muennich/mupdf) : PDF Reader
 * [`Cropper`](https://github.com/edmodo/cropper) : Image cropping tool
+* [`EventBus`](http://greenrobot.github.io/EventBus/) : Simplifies communication between different parts of your application
+* [`ActiveAndroid`](http://www.activeandroid.com/) : ActiveAndroid is an ORM for Android
 
 Android Tools
 -----
