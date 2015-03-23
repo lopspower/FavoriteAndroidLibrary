@@ -42,6 +42,7 @@ ListView
 * [`HorizontalVariableListView`](https://github.com/sephiroth74/HorizontalVariableListView) : Horizontal ListView
 * [`PullToRefresh-ListView`](https://github.com/erikwt/PullToRefresh-ListView) : Pull to Refresh Library
 * [`Universal-Image-Loader`](https://github.com/nostra13/Android-Universal-Image-Loader) : Flexible and highly customizable instrument for image loading, caching and displaying
+* [`QuickReturn`](https://github.com/LarsWerkman/QuickReturnListView) : implementation of the QuickReturn UI developed
 
 Chart
 -----
