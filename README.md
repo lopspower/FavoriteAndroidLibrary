@@ -6,18 +6,18 @@ Best Android Library open source on GitHub and others, enjoy !!
 Summary
 -----
 
-* [Navigation](#navigation) 
-* [UI Components](#uicomponents) 
-* [ListView](#listview) 
-* [Chart](#chart) 
-* [Game](#game) 
-* [Parsing](#parsing) 
-* [More](#more) 
-* [Android Tools](#androidtools) 
+1. [Navigation](#navigation) 
+2. [UI Components](#uicomponents) 
+3. [ListView](#listview) 
+4. [Chart](#chart) 
+5. [Game](#game) 
+6. [Parsing](#parsing) 
+7. [More](#more) 
+8. [Android Tools](#androidtools) 
 
 ***
 
-<a name="navigation">Navigation
+1. <a name="navigation">Navigation
 -----
 
 * [`PagerSlidingTabStrip`](https://github.com/astuetz/PagerSlidingTabStrip) : An interactive indicator to navigate between the different pages of a ViewPager
@@ -28,7 +28,7 @@ Summary
 * [`DraggablePanel`](https://github.com/pedrovgs/DraggablePanel) : Panels that can be dragged (Like `YouTube` App)
 * [`WizardPager`](https://github.com/romannurik/Android-WizardPager) : Additional page type examples
 
-<a name="uicomponents">UI Components
+2. <a name="uicomponents">UI Components
 -----
 
 * [`BetterPickers`](https://github.com/derekbrameyer/android-betterpickers) : BetterPickers for easy input selection
@@ -46,7 +46,7 @@ Summary
 * [`CircularSeekBar`](https://github.com/RaghavSood/AndroidCircularSeekBar) : A circular seek bar for Android
 * [`DateTimePicker`](https://github.com/flavienlaurent/datetimepicker) : Contains a beautiful DatePicker and TimePicker (Like `Google Agenda` App)
 
-<a name="listview">ListView
+3. <a name="listview">ListView
 -----
 
 * [`StickyListHeaders`](https://github.com/emilsjolander/StickyListHeaders) : For section headers that stick to the top of a ListView
@@ -61,7 +61,7 @@ Summary
 * [`QuickReturn`](https://github.com/LarsWerkman/QuickReturnListView) : Implementation of the QuickReturn UI developed
 * [`Picasso`](https://github.com/square/picasso) : A powerful image downloading and caching library
 
-<a name="chart">Chart
+4. <a name="chart">Chart
 -----
 
 * [`HoloGraphLibrary`](https://github.com/Androguide/HoloGraphLibrary) : Newer graphing library
@@ -69,7 +69,7 @@ Summary
 * [`AndroidCharts`](https://github.com/HackPlan/AndroidCharts) : Easy to use charts
 * [`WilliamChart`](https://github.com/diogobernardino/WilliamChart) : Flexible charting library with useful motion capabilities
 
-<a name="game">Game
+5. <a name="game">Game
 -----
 
 * [`AndEngine`](https://github.com/nicolasgramlich/AndEngine) : AndEngine is a free Open Source 2D OpenGL Game Engine for the Android platform
@@ -83,14 +83,14 @@ Summary
 * [`Chipmunk`](http://code.google.com/p/chipmunk-physics/) : Fast but I prefer box2d
 * [`Bullet`](http://bulletphysics.org/) : Excellent 3D engine
 
-<a name="parsing">Parsing
+6. <a name="parsing">Parsing
 -----
 
 * [`Gson`](https://code.google.com/p/google-gson/) : Gson is a Java library that can be used to convert Java Objects into their JSON representation
 * [`SimpleXML`](http://simple.sourceforge.net/download/stream/doc/examples/examples.php) : Simple is a high performance XML serialization and configuration framework for Java
 * [`Jsonschema2pojo`](http://www.jsonschema2pojo.org/) : Generate Plain Old Java Objects from JSON or JSON-Schema
 
-<a name="more">More
+7. <a name="more">More
 -----
 
 * [`ZXing`](https://github.com/zxing/zxing) : Barcode or QR scanner
@@ -101,7 +101,7 @@ Summary
 * [`ActiveAndroid`](http://www.activeandroid.com/) : ActiveAndroid is an ORM for Android
 * [`ButterKnife`](https://github.com/JakeWharton/butterknife) : Field and method binding for Android views which uses annotation processing to generate boilerplate code for you
 
-<a name="androidtools">Android Tools
+8. <a name="androidtools">Android Tools
 -----
 
 * [`ActionBarStyleGenerator`](https://github.com/jgilfelt/android-actionbarstylegenerator) : Allows you to easily create a simple, attractive and seamless custom action bar style for your Android application
