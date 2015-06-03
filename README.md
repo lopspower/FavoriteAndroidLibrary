@@ -123,6 +123,7 @@ Summary
 * [`ButtonMaker`](http://angrytools.com/android/button/) : Online tool to generate buttons code for Android Apps
 * [`Gradle, Please`](http://gradleplease.appspot.com/) : It helps you to get exact maven artifact of the particular library
 * [`Postman`](http://www.getpostman.com/) : It comes handy when you would want to check your rest APIs
+* [`Material-design-icons`](https://github.com/google/material-design-icons) : Material design icons are the official icon set from Google
 
 ***
 
