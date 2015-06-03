@@ -14,8 +14,9 @@ Summary
 4. [Chart](#chart) 
 5. [Game](#game) 
 6. [Parsing](#parsing) 
-7. [More](#more) 
-8. [Android Tools](#androidtools) 
+7. [Material Design](#material_design) 
+8. [More](#more) 
+9. [Android Tools](#androidtools) 
 
 ***
 
@@ -92,7 +93,16 @@ Summary
 * [`SimpleXML`](http://simple.sourceforge.net/download/stream/doc/examples/examples.php) : Simple is a high performance XML serialization and configuration framework for Java
 * [`Jsonschema2pojo`](http://www.jsonschema2pojo.org/) : Generate Plain Old Java Objects from JSON or JSON-Schema
 
-7. <a name="more">More
+7. <a name="material_design">Material Design
+-----
+
+* [`MaterialViewPager`](https://github.com/florent37/MaterialViewPager) : Material Design ViewPager easy to use library
+* [`Material-Movies`](https://github.com/saulmm/Material-Movies) : Setup an android environment to develop an scalable, maintainable and testable projects
+* [`Android-ObservableScrollView`](https://github.com/ksoichiro/Android-ObservableScrollView) : Android library to observe scroll events on scrollable views
+* [`Android-Material-Examples`](https://github.com/saulmm/Android-Material-Examples) : Sample for Android Material Design
+
+
+8. <a name="more">More
 -----
 
 * [`ZXing`](https://github.com/zxing/zxing) : Barcode or QR scanner
@@ -103,7 +113,7 @@ Summary
 * [`ActiveAndroid`](http://www.activeandroid.com/) : ActiveAndroid is an ORM for Android
 * [`ButterKnife`](https://github.com/JakeWharton/butterknife) : Field and method binding for Android views which uses annotation processing to generate boilerplate code for you
 
-8. <a name="androidtools">Android Tools
+9. <a name="androidtools">Android Tools
 -----
 
 * [`ActionBarStyleGenerator`](https://github.com/jgilfelt/android-actionbarstylegenerator) : Allows you to easily create a simple, attractive and seamless custom action bar style for your Android application
