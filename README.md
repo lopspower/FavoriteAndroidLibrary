@@ -31,6 +31,7 @@ Summary
 2. <a name="uicomponents">UI Components
 -----
 
+* [`CircularProgressBar`](https://github.com/lopspower/CircularProgressBar) : Realize a circular ProgressBar in the simplest way possible.
 * [`BetterPickers`](https://github.com/derekbrameyer/android-betterpickers) : BetterPickers for easy input selection
 * [`CircularImageView`](https://github.com/lopspower/CircularImageView) : Realize a circular ImageView in the simplest way possible
 * [`ShowcaseView`](https://github.com/amlcurran/ShowcaseView) : Highlight the best bits of your app
