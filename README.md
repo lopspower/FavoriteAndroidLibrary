@@ -1,4 +1,4 @@
-# Favorite Android Library
+# :book: Favorite Android Library
 Best Android Library open source on GitHub and others, enjoy !!
 
 ![android-library-visual](https://cloud.githubusercontent.com/assets/4562398/6830152/4acbcd54-d318-11e4-8328-2fc49964694f.jpg)
