@@ -34,6 +34,7 @@ Summary
 * [`CircularProgressBar`](https://github.com/lopspower/CircularProgressBar) : Realize a circular ProgressBar in the simplest way possible.
 * [`BetterPickers`](https://github.com/derekbrameyer/android-betterpickers) : BetterPickers for easy input selection
 * [`CircularImageView`](https://github.com/lopspower/CircularImageView) : Realize a circular ImageView in the simplest way possible
+* [`CircularFillableLoaders`](https://github.com/lopspower/CircularFillableLoaders) : Realize a beautiful circular fillable loaders
 * [`ShowcaseView`](https://github.com/amlcurran/ShowcaseView) : Highlight the best bits of your app
 * [`View Animations`](https://github.com/daimajia/AndroidViewAnimations) : Easily apply common animations
 * [`ImageSlider`](https://github.com/daimajia/AndroidImageSlider) : Animated image transitions
