@@ -113,6 +113,7 @@ Summary
 * [`Gradle, Please`](http://gradleplease.appspot.com/) : It helps you to get exact maven artifact of the particular library
 * [`Postman`](http://www.getpostman.com/) : It comes handy when you would want to check your rest APIs
 * [`Material-design-icons`](https://github.com/google/material-design-icons) : Material design icons are the official icon set from Google
+* [`Video-to-gif`](http://ezgif.com/video-to-gif) : Create un perfect demo Gif with your screencast
 
 ***
 
